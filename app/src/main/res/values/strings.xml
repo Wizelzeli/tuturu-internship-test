@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TutuRuIntershipTest</string>
+    <string name="fact">Fact: %1$s</string>
+    <string name="created">Created at: %1$s</string>
+    <string name="verified">Verified: %1$s</string>
+    <string name="facts">Facts</string>
+    <string name="details">Details</string>
+    <string name="network_error">Something went wrong</string>
+
+</resources>
